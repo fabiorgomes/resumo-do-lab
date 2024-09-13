@@ -6,7 +6,7 @@
  - Escolha “Banco de Dados SQL”: Na barra de pesquisa, digite “Banco de Dados SQL” e selecione “Banco de Dados SQL” na lista de 
    resultados. Em seguida, clique em “Criar”.
 # Configurar o Banco de Dados SQL
-#Configurações Básicas:
+# Configurações Básicas:
 Assinatura: Escolha a assinatura do Azure que será usada.
 Grupo de Recursos: Selecione um grupo de recursos existente ou crie um novo.
 Nome do Banco de Dados: Digite um nome para seu banco de dados.
