@@ -1,6 +1,6 @@
 ## Configuração de uma instância de banco de dados no Azure
-Passo 1: Acessar o Portal Azure
-Acesse o Portal Azure: Abra seu navegador e vá para portal.azure.com. Faça login com suas credenciais.
+# Passo 1: Acessar o Portal Azure
+ Faça login com suas credenciais.
 Passo 2: Criar um Novo Banco de Dados
 Clique em “Criar um recurso”: No painel do portal, clique no botão “Criar um recurso” no menu à esquerda.
 Escolha “Banco de Dados SQL”: Na barra de pesquisa, digite “Banco de Dados SQL” e selecione “Banco de Dados SQL” na lista de resultados. Em seguida, clique em “Criar”.
